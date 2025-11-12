@@ -1,0 +1,116 @@
+
+Course URL: - 
+https://learn.microsoft.com/en-us/training/courses/az-204t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289#study-guide
+
+Labs
+https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure
+
+Skillable Account for Lab
+https://cloudthat.learnondemand.net/Class/626313
+Lab Key :- 4DFDE215A99E44AB
+
+Python Labs GitHub Repo
+https://github.com/rishabhbeni/AZ-204-Python
+
+Practice Assessment
+https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/practice/assessment?assessment-type=practice&assessmentId=35&practice-assessment-type=certification
+
+AZ-305 Case Studies
+https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/
+
+Module 1
+
+https://www.azure.cn/en-us/pricing/details/app-service/
+https://crontab.guru/
+https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?tabs=copilot&pivots=azure-portal
+
+Module 2
+
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
+https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-java
+https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
+
+Module 3
+
+https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview
+https://learn.microsoft.com/en-us/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json
+https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure
+https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy
+https://azure.microsoft.com/en-in/pricing/calculator/?ef_id=_k_CjwKCAjwk8e1BhALEiwAc8MHiPNjIkfPWLYnQnTOoiTNBqJhf7E58X8OWpub-nJDlRj-Ew_ryV6qZBoCWRMQAvD_BwE_k_&OCID=AIDcmmf1elj9v5_SEM__k_CjwKCAjwk8e1BhALEiwAc8MHiPNjIkfPWLYnQnTOoiTNBqJhf7E58X8OWpub-nJDlRj-Ew_ryV6qZBoCWRMQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiPNjIkfPWLYnQnTOoiTNBqJhf7E58X8OWpub-nJDlRj-Ew_ryV6qZBoCWRMQAvD_BwE
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#storage-limits
+https://learn.microsoft.com/en-us/answers/questions/1044958/what-kind-of-azure-storage-account-needs-to-be-cre
+https://azure.microsoft.com/en-in/pricing/details/storage/blobs/
+
+Module 4
+
+https://learn.microsoft.com/en-us/azure/cosmos-db/introduction
+https://learn.microsoft.com/en-us/azure/cosmos-db/throughput-serverless
+https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-choose-offer
+https://cosmos.azure.com/capacitycalculator/
+https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/how-to-write-stored-procedures-triggers-udfs?tabs=javascript
+
+Module 5
+
+https://docs.docker.com/engine/install/ubuntu/
+https://hub.docker.com/search?image_filter=official
+https://learn.microsoft.com/en-us/azure/container-instances/container-instances-container-groups
+https://learn.microsoft.com/en-us/azure/container-instances/container-instances-multi-container-yaml
+https://learn.microsoft.com/en-us/azure/container-apps/get-started?tabs=bash
+
+Module 6
+
+https://developer.microsoft.com/en-us/graph/graph-explorer
+
+Module 7
+
+https://learn.microsoft.com/en-us/azure/key-vault/general/security-features
+https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview
+
+Module 8
+
+https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts
+https://learn.microsoft.com/en-us/azure/api-management/import-and-publish
+https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-developer-portal-customize
+
+Module 9
+
+https://learn.microsoft.com/en-us/azure/event-grid/overview
+https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about
+https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-features
+https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send?tabs=passwordless%2Croles-azure-portal
+
+Module 10
+
+https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted
+https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview
+
+
+Module 11
+
+https://learn.microsoft.com/en-us/azure/azure-monitor/overview
+https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+
+Module 12
+
+https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview
+https://learn.microsoft.com/en-us/azure/cdn/cdn-overview
+https://learn.microsoft.com/en-us/azure/cdn/cdn-features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
